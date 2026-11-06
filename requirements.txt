@@ -1,0 +1,13 @@
+streamlit
+psycopg[binary]
+pgvector
+sentence-transformers
+pillow
+pymupdf
+pdfplumber
+llama-index-core
+llama-index-readers-file
+langchain-core
+langchain-ollama
+langgraph
+ollama
